@@ -84,3 +84,7 @@ h1 {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+a {
+    text-decoration: none;
+}

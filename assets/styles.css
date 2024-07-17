@@ -219,8 +219,6 @@ header {
 }
 
 svg {
-    transition: 0.5s;
-    transition-timing-function: ease-in-out;
     width: 75%;
     margin: auto;
 }
@@ -231,12 +229,10 @@ svg {
 
 #link1 svg:hover, #link2 svg:hover, #link5 svg:hover {
     stroke: none;
-    transform: scale(1.25);
 }
 
 #link3 svg:hover, #link4 svg:hover, #link6 svg:hover {
     fill: none;
-    transform: scale(1.25);
 }
 
 footer {
